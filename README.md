@@ -1,5 +1,5 @@
 # Proyecto-Git-Equipo
-Este repositorio fue creado para practicar los comandos básicos de Git y el trabajo colaborativo en GitHub. Aquí guardaremos nuestros archivos, registraremos cada cambio y aprenderemos a hacer commints. 
+Este repositorio fue creado para practicar los comandos básicos de Git y el trabajo colaborativo en GitHub. Aquí guardaremos nuestros archivos, registraremos cada cambio y aprenderemos a hacer commits. 
 ## Integrantes del Equipo
 - Samantha Abigail Chango Lema
 - Melany Yamileth Estrada Naranjo
