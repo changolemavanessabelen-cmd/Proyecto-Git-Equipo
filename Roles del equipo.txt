@@ -1,0 +1,4 @@
+Fátima: Se encargo de la primera parte del proyecto dicho de otro modo la introducción.
+Melany: Se encargo de la información relacionada a los comandos del git hub.
+Samantha: Se encargo de la creación del repositorio.
+Leo: Se encargo de los commits 
